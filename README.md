@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://material-ui.com/" rel="noopener" target="_blank"><img width="150" src="https://repository-images.githubusercontent.com/344057438/b54d1f80-7d9d-11eb-97c9-e17fca7e93b2" alt="Glitz Logo"></a></p>
+  <a href="https://github.com/usama-asfar/glitz" rel="noopener" target="_blank"><img width="150" src="https://repository-images.githubusercontent.com/344057438/b54d1f80-7d9d-11eb-97c9-e17fca7e93b2" alt="Glitz Logo"></a></p>
 </p>
 
 <h1 align="center">Glitz
