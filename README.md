@@ -1,11 +1,15 @@
-# Glitz
+<p align="center">
+  <a href="https://material-ui.com/" rel="noopener" target="_blank"><img width="150" src="https://repository-images.githubusercontent.com/344057438/b54d1f80-7d9d-11eb-97c9-e17fca7e93b2" alt="Glitz Logo"></a></p>
+</p>
 
-**TODO: Add description**
-
+<h1 align="center">Glitz
+<p align="center" style="font-size: 16px">
+ Elixir Terminal Styler
+</p>
+</h1>
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `glitz` to your list of dependencies in `mix.exs`:
+The package can be installed by adding `glitz` to your list of dependencies in `mix.exs`:
 
 ```elixir
 def deps do
@@ -14,8 +18,3 @@ def deps do
   ]
 end
 ```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/glitz](https://hexdocs.pm/glitz).
-
