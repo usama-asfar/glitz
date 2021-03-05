@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Glitz
-<p align="center" style="font-size: 16px">
+<p align="center" style="font-size: 14px">
  Elixir Terminal Styler
 </p>
 </h1>
