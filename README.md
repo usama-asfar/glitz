@@ -22,6 +22,8 @@ end
 iex> "Hello World!" Glitz.color(:cyan) |> Glitz.blink_slow |> Glitz.print
 ```
 
+<img src="https://i.imgur.com/7NXnt4Q.png">
+
 ## API
 
 ### color
