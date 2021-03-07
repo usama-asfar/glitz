@@ -15,3 +15,67 @@ def deps do
   ]
 end
 ```
+
+## Usage
+
+```console
+iex> "Hello World!" |> Glitz.background(:yellow) |> Glitz.color(:cyan) |> Glitz.blink_slow |> Glitz.print
+```
+
+## API
+
+### color
+
+- :black
+- :red
+- :green
+- :yellow
+- :blue
+- :magneta
+- :cyan
+- :white
+- :gray
+- :bright_red
+- :bright_green
+- :bright_yellow
+- :bright_blue
+- :bright_magneta
+- :bright_cyan
+- :bright_white
+
+### background
+
+- :black
+- :red
+- :green
+- :yellow
+- :blue
+- :magneta
+- :cyan
+- :white
+- :gray
+- :bright_red
+- :bright_green
+- :bright_yellow
+- :bright_blue
+- :bright_magneta
+- :bright_cyan
+- :bright_white
+
+### options
+
+- bold
+- faint
+- italic
+- underline
+- blink_slow
+- blink_rapid
+- invert
+- hide
+- strike
+- underline_double
+- overlined
+
+### output
+
+- print
