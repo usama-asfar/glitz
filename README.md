@@ -19,7 +19,7 @@ end
 ## Usage
 
 ```console
-iex> "Hello World!" |> Glitz.background(:yellow) |> Glitz.color(:cyan) |> Glitz.blink_slow |> Glitz.print
+iex> "Hello World!" Glitz.color(:cyan) |> Glitz.blink_slow |> Glitz.print
 ```
 
 ## API
